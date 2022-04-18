@@ -1,6 +1,7 @@
 # GittigidiyorAutomationProject
+
+Adding products to the basket 
 ------------------------------------------------
-* Adding products to the basket 
 * User visits Gittigidiyor.com
 * The user will search here for the product who wants to buy
 * The user opens the 2nd page from the search results page
